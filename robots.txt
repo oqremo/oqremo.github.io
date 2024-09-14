@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://oqremo.github.io/YSH/sitemap.YSH.gz
